@@ -1,0 +1,7 @@
+interface:
+  display_name: "产品广告创意与提示词"
+  short_description: "从产品白底图生成广告创意与专业提示词"
+  default_prompt: "使用 $product-ad-creative，根据这张产品白底图设计广告创意并输出完整的专业提示词方案。"
+
+policy:
+  allow_implicit_invocation: true
